@@ -1,10 +1,6 @@
 #include <iostream>
-#include <sstream>
 #include <fstream>
 #include <string>
-#include <vector>
-#include <deque>
-#include <set>
 #include <limits>
 #include <regex>
 
